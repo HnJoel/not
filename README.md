@@ -1,1 +1,1 @@
-Let us then with confidence draw near to the throne of grace,(Hebrews 4:16 ESV)
+It is the Spirit who gives life; the flesh is no help at all.The words that I have spoken to you are spirit and life.(John 6:63 ESV)
