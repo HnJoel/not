@@ -1,0 +1,3 @@
+[submodule "bōw"]
+	path = bōw
+	url = https://github.com/HnJoel/bow.git
