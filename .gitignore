@@ -1,4 +1,4 @@
 # Virtualenv
-vi-env/
+.venv/
 # Build
 __pycache__/
