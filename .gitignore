@@ -1,4 +1,8 @@
 # Virtualenv
+<<<<<<< HEAD
 .env/
+=======
+.venv/
+>>>>>>> 642355c5bd85ec390570355a14811e5a906b0435
 # Build
 __pycache__/
